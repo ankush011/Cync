@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parallel Test" thread-count="1" parallel="classes">
+
+
+<listeners>
+        <listener class-name="com.cync.base.RetryListener"/>
+  </listeners>
+
+	<test name="Cync Test Suite">
+		<parameter name="selGrid" value="false" />
+		<parameter name="nodeURL" value="http://localhost::4444/wd/console" />
+		<parameter name="browserName" value="chrome" />
+		<parameter name="localBrowserPath" value="chromedriver" />
+
+
+
+
+		<parameter name="url" value="https://staging.cyncsoftware.com/" />
+		<classes>
+		
+		
+		
+		
+		
+			<class name="com.cync.ABLPageBreak.Adminpagebreak">
+
+
+				<methods>
+
+					<include name="navigateBasicDetails" />
+
+					<include name="navigateBankDetails" />
+				
+		</methods>
+
+	</class>
+
+
+
+
+
+
+		</classes>
+	</test>
+</suite> <!-- Suite -->

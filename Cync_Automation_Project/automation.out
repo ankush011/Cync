@@ -1,0 +1,38 @@
+2018-08-01 17:59:30 INFO  AdjustmentReasonPage:78 - execution started in the CHROME browser
+2018-08-01 17:59:30 INFO  AdjustmentReasonPage:113 - maximizing the Browser
+2018-08-01 17:59:31 INFO  AdjustmentReasonPage:116 - Passing the APP URL
+2018-08-01 17:59:39 INFO  LoginPage:36 - setting up the username
+2018-08-01 17:59:39 INFO  LoginPage:52 - setting up the password
+2018-08-01 17:59:43 INFO  LoginPage:103 - login to the cync application
+2018-08-01 17:59:43 INFO  CyncHomePage:21 - verifying the Login success message
+2018-08-01 17:59:43 INFO  CyncHomePage:30 - verifying the success Message
+2018-08-01 18:00:04 INFO  CreditLineLoanCreationPage:126 - Verify clickOnNew
+2018-08-14 15:16:36 INFO  AdjustmentReasonPage:78 - execution started in the CHROME browser
+2018-08-14 15:16:36 INFO  AdjustmentReasonPage:113 - maximizing the Browser
+2018-08-14 15:16:36 INFO  AdjustmentReasonPage:116 - Passing the APP URL
+2018-08-14 17:24:15 INFO  AdjustmentReasonPage:78 - execution started in the CHROME browser
+2018-08-14 17:24:15 INFO  AdjustmentReasonPage:113 - maximizing the Browser
+2018-08-14 17:24:15 INFO  AdjustmentReasonPage:116 - Passing the APP URL
+2018-08-14 17:24:22 INFO  LoginPage:36 - setting up the username
+2018-08-14 17:24:23 INFO  LoginPage:52 - setting up the password
+2018-08-14 17:24:29 INFO  LoginPage:103 - login to the cync application
+2018-08-14 17:24:29 INFO  CyncHomePage:21 - verifying the Login success message
+2018-08-14 17:24:29 INFO  CyncHomePage:30 - verifying the success Message
+2018-08-14 17:24:58 INFO  AdjustmentReasonPage:78 - execution started in the CHROME browser
+2018-08-14 17:24:58 INFO  AdjustmentReasonPage:113 - maximizing the Browser
+2018-08-14 17:24:58 INFO  AdjustmentReasonPage:116 - Passing the APP URL
+2018-08-14 17:25:06 INFO  LoginPage:36 - setting up the username
+2018-08-14 17:25:07 INFO  LoginPage:52 - setting up the password
+2018-08-14 17:25:11 INFO  LoginPage:103 - login to the cync application
+2018-08-14 17:25:11 INFO  CyncHomePage:21 - verifying the Login success message
+2018-08-14 17:25:11 INFO  CyncHomePage:30 - verifying the success Message
+2018-08-22 15:57:10 INFO  LoginPage:36 - setting up the username
+2018-08-22 15:57:11 INFO  LoginPage:52 - setting up the password
+2018-08-22 15:57:20 INFO  LoginPage:103 - login to the cync application
+2018-08-22 15:57:20 INFO  CyncHomePage:21 - verifying the Login success message
+2018-08-22 15:57:20 INFO  CyncHomePage:30 - verifying the success Message
+2018-08-22 15:58:14 INFO  LoginPage:36 - setting up the username
+2018-08-22 15:58:16 INFO  LoginPage:52 - setting up the password
+2018-08-22 15:58:21 INFO  LoginPage:103 - login to the cync application
+2018-08-22 15:58:21 INFO  CyncHomePage:21 - verifying the Login success message
+2018-08-22 15:58:21 INFO  CyncHomePage:30 - verifying the success Message
