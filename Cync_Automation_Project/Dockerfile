@@ -5,4 +5,4 @@ RUN apt-get update && apt-get install -y \
 	maven
 COPY . /app
 
-CMD mvn clean -X /app/Cync_Automation_Project
+CMD mvn clean install test -X /app/Cync_Automation_Project
