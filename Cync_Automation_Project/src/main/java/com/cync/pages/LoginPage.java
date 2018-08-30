@@ -95,7 +95,7 @@ public class LoginPage extends BasePage{
 	public CyncHomePage doLogin(){
 		try{
 			this.setUserName("adminautomation");
-			this.setPassword("Cync@123");
+			this.setPassword("Cync@1234");
 
 
 			new WebDriverWait(driver,10)
