@@ -59,7 +59,7 @@ public abstract class BaseTest {
 	 // /home/leo/Downloads/
    final String dir_localBrowserPath = System.getProperty("user.dir")+"/src/test/resources/"+localBrowserPath;
       
-   System.setProperty("webdriver.chrome.driver", "/home/likewise-open/IDEXCEL/sankush/Downloads/chromedriver");
+   System.setProperty("webdriver.chrome.driver", "/home/likewise-open/IDEXCEL/sankush/cync/Cync_Automation_Project/src/test/resources/chromedriver");
 
             capability=DesiredCapabilities.chrome();
             options=new ChromeOptions();
